@@ -4,7 +4,9 @@
 It`s instruction how to install [AGWA/git-crypt](https://github.com/AGWA/git-crypt) on Linux.
 
 ### Installation
+
 **Ubuntu**
+
 On Ubuntu you can install git-crypt from default repository:
 
 ```sh
